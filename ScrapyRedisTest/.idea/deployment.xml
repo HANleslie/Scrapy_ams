@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="ubuntu_scrapy_project">
+    <serverData>
+      <paths name="ubuntu_scrapy_project">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/JobBolePro" local="E:/remoteProject" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

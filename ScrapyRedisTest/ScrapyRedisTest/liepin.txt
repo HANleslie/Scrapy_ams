@@ -1,0 +1,2593 @@
+{
+    "title": [
+        "高级爬虫工程师"
+    ],
+    "salary": [
+        "1-2万/月"
+    ],
+    "release_time": [
+        "2018-08-04"
+    ],
+    "area_localtion": [
+        "深圳-南山区"
+    ],
+    "requirement_number": [
+        "1人"
+    ],
+    "education": [
+        "本科"
+    ],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen-nsq/co3047029.html",
+        "https://m.51job.com/search/jobmap.php?jobid=99172292&t=1"
+    ],
+    "company": [
+        "深圳市易仓科技有限公司"
+    ],
+    "company_intruduce": [
+        "民营公司| 150-500人| 计算机软件 互联网/电子商务"
+    ],
+    "company_addr": [
+        "上班地址 : 深圳市南山区西丽街道新围工业区9栋一楼"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=99172292&t=1"
+    ],
+    "position_discribe": [
+        "岗位职责：",
+        "1. 负责公司商业大数据爬虫系统的架构、设计、研发与管理维护；",
+        "2. 设计爬虫策略与算法，提升抓取效果；",
+        "3. 持续优化系统，提高系统的稳定性及性能；",
+        "4.处理海量结构化数据的挖掘，找寻数据间的内在关联，并在此基础上构建机器学习模型；",
+        "5.挖掘算法优化，数据分类及分布统计，为其他部门提供特定需求的数据；",
+        "任职要求：",
+        "1、4年及以上Java开发经验，熟悉Windows与Linux开发环境，精通Java 、Python、C++、shell等语言，",
+        "2、精通Struts2、Hibernate、Spring、Mybatis、SpringMVC，maven等开源框架。",
+        "3、精通html语言，熟悉Lucene/Nutch/Heritrix/larbin/jsoup/webmagic等开源工具，webmagic熟悉使用者优先；",
+        "4、丰富的爬虫经验,能够解决反爬虫、网络异常等各种常见爬虫问题；",
+        "5、熟悉网络编程(TCP/HTTP 协议)，多线程、多进程相关知识，有大型C2C、B2C电商网站分布式爬虫架构、数据挖掘等实践经验者优先；",
+        "6、熟悉Spark、Kafka、MongoDB 、MySQL、Redis等，具有丰富的大型数据平台工程经验者优先",
+        "7、良好的编码风格及测试习惯；",
+        "8、优秀的分析、解决问题能力,对处理未知的、挑战性问题充满激情；",
+        "9、具备较强的学习能力和责任心，良好的沟通能力，团队合作精神。"
+    ],
+    "label": [
+        "五险一金",
+        "员工旅游",
+        "专业培训",
+        "绩效奖金",
+        "年终奖金",
+        "生日福利",
+        "下午茶"
+    ]
+}{
+    "title": [
+        "高级爬虫开发工程师"
+    ],
+    "salary": [
+        "1.3-2.5万/月"
+    ],
+    "release_time": [
+        "2018-08-02"
+    ],
+    "area_localtion": [
+        "深圳"
+    ],
+    "requirement_number": [
+        "1人"
+    ],
+    "education": [],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen/co2579597.html",
+        "https://m.51job.com/search/jobmap.php?jobid=71069440&t=1"
+    ],
+    "company": [
+        "深圳中泓在线股份有限公司"
+    ],
+    "company_intruduce": [
+        "上市公司| 50-150人| 计算机软件 计算机服务(系统、数据服务、维修)"
+    ],
+    "company_addr": [
+        "上班地址 : 深圳市南山区高新区北区乌石头路8号天明科技大厦主楼14楼"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=71069440&t=1"
+    ],
+    "position_discribe": [
+        "工作职责：",
+        "1、负责传统网页和微博微信及手机app信息高效采集与正确解析；",
+        "2、根据数据采集工作需要，负责开发和维护数据采集工具；",
+        "3、设计策略和算法，提升网页抓取的效率和质量，进一步解决系统的网页排重、垃圾控制、资源划分等问题；",
+        "4、抓取程序及集群智能调度控制；",
+        "5、海量数据智能抽取、校对。",
+        "基本要求：",
+        "1、计算机或相关专业本科以上学历，开发工作经验1年以上；",
+        "2、深入了解Http协议和web登录认证机制？；",
+        "3、要求熟悉JAVA，或者熟悉.NET网络编程；",
+        "4、熟悉各种网站、网页、链接的形态，了解它们的特点和规律？；",
+        "5、熟悉搜索引擎和网络爬虫相关技术，熟悉常用的网络抓取策略和算法？；",
+        "6、从结构化的和非结构化的数据中获取信息,对网页抓取、信息抽取、去重、清洁有一定经验；",
+        "7、通过分布式采集技术实现大数据量的抓取；",
+        "8、熟悉消息系统及数据存储；",
+        "9、熟悉NoSql（MongoDB，Redis，Hbase等），了解大数据，有一定的Hadoop使用经验。",
+        "优先考虑：有海量数据、高负载产品实际开发经验，参与过大规模数据爬取，深度网页爬取，在网络爬虫领域有深厚技术积累者优先；"
+    ],
+    "label": []
+}{
+    "title": [
+        "数据爬虫工程师"
+    ],
+    "salary": [
+        "1.5-3万/月"
+    ],
+    "release_time": [
+        "2018-08-02"
+    ],
+    "area_localtion": [
+        "深圳-南山区"
+    ],
+    "requirement_number": [
+        "3人"
+    ],
+    "education": [
+        "本科"
+    ],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen-nsq/co3288574.html",
+        "https://m.51job.com/search/jobmap.php?jobid=93435669&t=1"
+    ],
+    "company": [
+        "卫盈联信息技术（深圳）有限公司"
+    ],
+    "company_intruduce": [
+        "外资（非欧美）| 500-1000人| 互联网/电子商务 金融/投资/证券"
+    ],
+    "company_addr": [
+        "上班地址 : 科苑南路（深圳湾段）3331号阿里巴巴大厦 T2座10层"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=93435669&t=1"
+    ],
+    "position_discribe": [
+        "岗位职责：",
+        "1、负责设计、开发、维护分布式爬虫系统；",
+        "2、负责爬虫系统自动爬取、数据提取的核心算法和性能效果调优；",
+        "3、负责爬虫系统的后台监控、报警模块的开发；",
+        "4、对指定的多个网站的网页进行页面抓取、数据提取。",
+        "任职资格：",
+        "1、本科及以上学历，计算机相关专业；",
+        "2、3年以上相关工作经验；",
+        "3、熟悉多线程、多进程、网络通信编程、分布式系统相关知识；",
+        "4、熟悉常见爬虫框架，比如scrapy, nutch, crawler4j, webmagic等，并可以定制化开发；",
+        "5、精通网页抓取原理及技术，能够从结构化的和非结构化的数据中获取信息；",
+        "6、熟悉tcp，http，proxy，ajax，html，parser，正则表达式。",
+        "职位诱惑： ",
+        "中国金融科技50强、最新融资15亿（阿里、瑞信、建银、IFC）； ",
+        "团队牛，成员来自花旗、渣打、普华永道、BAT、谷歌、华为、平安等； ",
+        "薪资高，市场领先的全面薪酬、最高17薪、期权激励 ；",
+        "假期长，20天福利假期（福利年假、全薪病假、生日假……）； ",
+        "培训多，全员覆盖、定制化课程、外聘讲师、游学基金 ； ",
+        "环境好，观海阳台、背靠人才公园、邻近海岸城、氛围积极开放； ",
+        "福利全，五险一金、补充商业险、餐补、下午茶、团建费 ； ",
+        "空间大，年两次调薪，发展通道多，管理岗公开竞聘 。"
+    ],
+    "label": [
+        "团队牛",
+        "薪资高",
+        "假期长",
+        "培训多",
+        "环境好",
+        "福利全",
+        "空间大"
+    ]
+}{
+    "title": [
+        "爬虫工程师"
+    ],
+    "salary": [
+        "1-2万/月"
+    ],
+    "release_time": [
+        "2018-08-03"
+    ],
+    "area_localtion": [
+        "深圳-南山区"
+    ],
+    "requirement_number": [
+        "若干人"
+    ],
+    "education": [
+        "本科"
+    ],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen-nsq/co1510345.html",
+        "https://m.51job.com/search/jobmap.php?jobid=93786311&t=1"
+    ],
+    "company": [
+        "深圳世联行地产顾问股份有限公司"
+    ],
+    "company_intruduce": [
+        "上市公司| 10000人以上| 房地产 专业服务(咨询、人力资源、财会)"
+    ],
+    "company_addr": [
+        "上班地址 : 华润大冲商务中心"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=93786311&t=1"
+    ],
+    "position_discribe": [],
+    "label": [
+        "五险一金",
+        "绩效奖金",
+        "年终奖金",
+        "专业培训",
+        "定期体检",
+        "餐饮补贴"
+    ]
+}{
+    "title": [
+        "爬虫高级工程师"
+    ],
+    "salary": [
+        "1.5-3万/月"
+    ],
+    "release_time": [
+        "2018-06-27"
+    ],
+    "area_localtion": [
+        "深圳-南山区"
+    ],
+    "requirement_number": [
+        "若干人"
+    ],
+    "education": [
+        "本科"
+    ],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen-nsq/co4519764.html",
+        "https://m.51job.com/search/jobmap.php?jobid=94236975&t=1"
+    ],
+    "company": [
+        "深圳市三只小熊科技有限公司"
+    ],
+    "company_intruduce": [
+        "民营公司| 150-500人| 网络游戏 互联网/电子商务"
+    ],
+    "company_addr": [
+        "上班地址 : 深南大道9996号松日鼎盛20层 未来游戏"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=94236975&t=1"
+    ],
+    "position_discribe": [],
+    "label": [
+        "五险一金",
+        "补充医疗保险",
+        "年底分红",
+        "定期体检",
+        "员工旅游"
+    ]
+}{
+    "title": [
+        "软件开发工程师(Python数据爬虫)"
+    ],
+    "salary": [
+        "0.8-1.6万/月"
+    ],
+    "release_time": [
+        "2018-08-04"
+    ],
+    "area_localtion": [
+        "深圳-南山区"
+    ],
+    "requirement_number": [
+        "2人"
+    ],
+    "education": [
+        "本科"
+    ],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen-nsq/co3265138.html",
+        "https://m.51job.com/search/jobmap.php?jobid=101492507&t=1"
+    ],
+    "company": [
+        "深圳市爱美购科技有限公司"
+    ],
+    "company_intruduce": [
+        "民营公司| 50-150人| 互联网/电子商务"
+    ],
+    "company_addr": [
+        "上班地址 : 科兴科学园"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=101492507&t=1"
+    ],
+    "position_discribe": [
+        "工作职责：",
+        "1.开发网页自动化脚本；",
+        "2.负责商品信息结构化，编写自动化脚本解析网页信息；",
+        "3.商品索引系统：亿级SKU的库存价格实时跟踪同步，并对商品进行智能分类、本地化、图片处理和去重；",
+        "4.设计、开发、测试、部署以及维护并改进各子系统；",
+        "5.管理项目优先级并按时交付。",
+        "职位要求：",
+        "1.全日制统招本科、硕士毕业（985/211优先），2年以上软件开发工作经验；",
+        "2.熟悉至少一门通用静态编译编程语言，C/C++/Java/C#/Go；",
+        "3.熟悉Web端基础标准，包括HTML、CSS、Javascript、Json等；",
+        "4.熟悉Python或其他脚本语言，有兴趣和能力根据需求学习其他编程语言；",
+        "5.熟悉Unix/Linux环境，Memcache/Redis/MongoDB等存储系统，能独立设计开发包括前后端交互的业务子系统；",
+        "6.熟悉常见的设计模式、单元测试、持续开发集成、Code Review，并能在日常工作践行；",
+        "7.了解搜索引擎、电子商务、社交类应用的系统基本架构，能对已有的子系统进行优化调整的优先；",
+        "8.活跃的开源项目贡献者优先。"
+    ],
+    "label": []
+}{
+    "title": [
+        "Python爬虫技术开发"
+    ],
+    "salary": [
+        "0.8-1万/月"
+    ],
+    "release_time": [
+        "2018-08-04"
+    ],
+    "area_localtion": [
+        "深圳-南山区"
+    ],
+    "requirement_number": [
+        "2人"
+    ],
+    "education": [
+        "大专"
+    ],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen-nsq/co5070309.html",
+        "https://m.51job.com/search/jobmap.php?jobid=104656778&t=1"
+    ],
+    "company": [
+        "深圳市思奇博睿科技有限公司"
+    ],
+    "company_intruduce": [
+        "民营公司| 50-150人| 计算机软件 贸易/进出口"
+    ],
+    "company_addr": [
+        "上班地址 : 南山街道东滨路濠盛商务中心7楼"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=104656778&t=1"
+    ],
+    "position_discribe": [
+        "岗位职责：",
+        "1、遵守开发流程和编程规范，根据项目需求，实现应用程序设计、编码和调试；",
+        "2、编制软件开发过程相关技术文档。",
+        "任职要求：",
+        "1、大专及以上学历，理工科专业优先；",
+        "2、掌握c或者C++语言；",
+        "3、对计算机算法相关知识，面向对象设计与分析、数据库理论及相关数据库软件的使用等方面有一定的理解和掌握；",
+        "注：应届生可放宽技能要求",
+        "福利待遇：",
+        "1、签订正式劳动合同，公司提供宿舍或住房补贴。",
+        "2、五险一金，周末双休，八小时工作制，无加班。",
+        "3、工资：实习期底薪+项目提成，独立上岗薪资4000-8000元，项目绩效，多劳多得上不封顶。",
+        "公司提供良好的晋升空间，合理的薪资制度，因公司发展需要也可接受实习生或者有意向进入这个行业的新人，公司提供完善的技术支持。"
+    ],
+    "label": []
+}{
+    "title": [
+        "爬虫工程师(深圳)"
+    ],
+    "salary": [
+        "1.5-3万/月"
+    ],
+    "release_time": [
+        "2018-08-02"
+    ],
+    "area_localtion": [
+        "深圳-福田区"
+    ],
+    "requirement_number": [
+        "3人"
+    ],
+    "education": [
+        "本科"
+    ],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen-ftq/co2155678.html",
+        "https://m.51job.com/search/jobmap.php?jobid=96293293&t=1"
+    ],
+    "company": [
+        "平安科技（深圳）有限公司"
+    ],
+    "company_intruduce": [
+        "民营公司| 1000-5000人| 互联网/电子商务 计算机软件"
+    ],
+    "company_addr": [
+        "上班地址 : 深圳市福田区八卦三路平安大厦"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=96293293&t=1"
+    ],
+    "position_discribe": [],
+    "label": [
+        "五险一金",
+        "绩效奖金",
+        "年终奖金",
+        "员工旅游",
+        "定期体检"
+    ]
+}{
+    "title": [
+        "爬虫开发工程师"
+    ],
+    "salary": [
+        "1.5-2.5万/月"
+    ],
+    "release_time": [
+        "2018-08-04"
+    ],
+    "area_localtion": [
+        "国外"
+    ],
+    "requirement_number": [
+        "3人"
+    ],
+    "education": [
+        "大专"
+    ],
+    "com_link": [
+        "https://m.51job.com/jobs/overseas/co5047576.html",
+        "https://m.51job.com/search/jobmap.php?jobid=103206390&t=1"
+    ],
+    "company": [
+        "深圳梵谷人力资源有限公司"
+    ],
+    "company_intruduce": [
+        "民营公司| 少于50人| 专业服务(咨询、人力资源、财会) 生活服务"
+    ],
+    "company_addr": [
+        "上班地址 : 菲律宾首都马尼拉"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=103206390&t=1"
+    ],
+    "position_discribe": [
+        "待遇：面议，15-25k/月，13薪资起+奖金",
+        " ",
+        "假期：月休8天，9小时／天，转正后一年20天回国年假，可以分1-3次休假，路费报销4000元。",
+        " ",
+        "食宿：吃饭补助：1400元／月，包住（2/间）自己出水电网络费约200元／月，不住宿舍补助：1600元／月。",
+        " ",
+        "国内人员自己办理机票和签证，转正报销国际机票去程段和签证费。",
+        " ",
+        "职位描述：",
+        "负责相关app、网站的爬虫开发，结合产品特点建立数据分析模型及数据分析等工作； ",
+        "理解系统数据处理流程以及业务功能需求，制定对应爬虫策略；",
+        "根据项目具体要求，承担开发任务，按计划完成任务目标；",
+        "负责设计和开发网络爬虫，定向数据的采集与爬取、解析处理、入库及备份等数据日常工作；",
+        "与技术团队进行沟通，负责爬虫数据与业务系统的整合对接；",
+        "协助开发人员完成软件系统及模块的测试；",
+        " ",
+        "任职条件：",
+        "大专及以上学历，计算机相关专业；",
+        "熟练掌握Ruby/Python/Go/C#/PHP任意一种语言，有一年左右后台项目开发经验；",
+        "熟练掌握Javascript、XML、JQuery、Ajax、Div+CSS等前端技术；",
+        "精通正则表达式和XPATH，能够从结构化或非结构化数据中获取信息；",
+        "精通mysql，SQL server，redis等数据库；",
+        "熟悉Linux 日常命令，有Linux自动化部署经验；",
+        "有全栈开发意识优先，熟悉REST API开发优先，拥有完整的应用级中型数据挖掘项目以上开发经验开发优先；",
+        "有良好的代码书写习惯、良好的学习、寻找解决问题方案的能力； ",
+        "具备独立工作能力的同时，拥有良好的团队意识；",
+        " "
+    ],
+    "label": []
+}{
+    "title": [
+        "高级爬虫工程师"
+    ],
+    "salary": [
+        "1.2-1.8万/月"
+    ],
+    "release_time": [
+        "2018-08-04"
+    ],
+    "area_localtion": [
+        "深圳-南山区"
+    ],
+    "requirement_number": [
+        "1人"
+    ],
+    "education": [
+        "本科"
+    ],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen-nsq/co3309691.html",
+        "https://m.51job.com/search/jobmap.php?jobid=100574307&t=1"
+    ],
+    "company": [
+        "深圳市易世通达贸易有限公司"
+    ],
+    "company_intruduce": [
+        "民营公司| 500-1000人| 贸易/进出口 互联网/电子商务"
+    ],
+    "company_addr": [
+        "上班地址 : 深圳市南山区西丽镇平山村大园工业区14栋401"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=100574307&t=1"
+    ],
+    "position_discribe": [
+        "岗位职责",
+        "1、 负责公司大数据爬虫系统的架构、设计、研发与管理维护；",
+        "2、设计爬虫策略与算法，提升抓取效果；",
+        "3、持续优化系统，提高系统的稳定性及性能；",
+        "4、处理海量结构化数据的挖掘，找寻数据间的内在关联，并在此基础上构建机器学习模型；",
+        "5、挖掘算法优化，数据分类及分布统计，为其他部门提供特定需求的数据；",
+        "任职要求：",
+        "1、2年及以上Java开发经验，熟悉Windows与Linux开发环境，精通Java 、Python、C++、shell等语言，",
+        "2、精通Struts2、Hibernate、Spring、Mybatis、SpringMVC，maven等开源框架。",
+        "3、精通html语言，熟悉Lucene/Nutch/Heritrix/larbin/jsoup/webmagic等开源工具，webmagic熟悉使用者优先；",
+        "4、丰富的爬虫经验,能够解决反爬虫、网络异常等各种常见爬虫问题；",
+        "5、熟悉网络编程(TCP/HTTP 协议)，多线程、多进程相关知识，有大型C2C、B2C电商网站分布式爬虫架构、数据挖掘等实践经验者优先；",
+        "6、熟悉Elasticsearch、Spark、MongoDB 、MySQL、Redis等，具有丰富的大型数据平台工程经验者优先",
+        "7、优秀的分析、解决问题能力,对处理未知的、挑战性问题充满激情；",
+        "8、对数据敏感、有创新精神、主动思考和获取新知识，具有较强领悟力，积极上进，性格乐观，态度踏实，耐心细致，责任心强，具备良好的客户需求理解能力、良好的团队协作和优秀的沟通能力，能承受较大的工作压力。"
+    ],
+    "label": [
+        "五险一金",
+        "员工旅游",
+        "专业培训",
+        "绩效奖金",
+        "年终奖金"
+    ]
+}{
+    "title": [
+        "Python爬虫工程师"
+    ],
+    "salary": [
+        "1-1.5万/月"
+    ],
+    "release_time": [
+        "2018-07-30"
+    ],
+    "area_localtion": [
+        "深圳"
+    ],
+    "requirement_number": [
+        "若干人"
+    ],
+    "education": [],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen/co4236277.html",
+        "https://m.51job.com/search/jobmap.php?jobid=96342959&t=1"
+    ],
+    "company": [
+        "深圳市财税无忧科技有限公司"
+    ],
+    "company_intruduce": [
+        "创业公司| 少于50人| 互联网/电子商务 计算机服务(系统、数据服务、维修)"
+    ],
+    "company_addr": [
+        "上班地址 : 福田区竹子林"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=96342959&t=1"
+    ],
+    "position_discribe": [
+        "岗位职责",
+        "1.负责内容爬取后，开发抽取规则，对精选内容进行批量抽取，并不断细化规则和维护整个工作的稳定性。",
+        "2.负责设计和开发网络爬虫应用，进行互联网相关信息的抓取和分析；",
+        "3.负责网页信息抽取技术的研究和开发；",
+        "4.负责解决爬取过程中的问题；",
+        " 任职要求：",
+        "1、熟悉网页抓取原理及技术，熟悉基于Cookie的网站登录原理，熟悉基于正则表达式、Xpath、CSS等网页信息；",
+        "2、精通Python/java 编程语言，精通Javascript，对HTTP协议及HTML有深入的了解；",
+        "3、精通正则表达式，用于从各种网络结构化和非结构化数据中抽取有用的信息；",
+        "4、熟练掌握数据库开发，对数据处理和数据质量有较深认识；精通至少一种主流数据NoSQL、mysql数据库；",
+        "5、熟悉http client、js, ajax, webdriver、htmlunit、Nutch、selenium、ETL、HtmlParser、Jsoup，webmagic等技术优先；",
+        "6、有海量数据爬取经验者优先；有爬取过微博，微信，淘宝等平台数据优先；具有自然语言处理、机器学习背景优先。",
+        "7、经验3-5年 / 大专及以上 / 全职",
+        "工作地点：深圳",
+        "工资待遇 10K-15K以上",
+        "联系人：张小姐 13544249005"
+    ],
+    "label": [
+        "五险一金",
+        "员工旅游",
+        "绩效奖金",
+        "年终奖金"
+    ]
+}{
+    "title": [
+        "爬虫工程师"
+    ],
+    "salary": [
+        "1-2万/月"
+    ],
+    "release_time": [
+        "2018-08-04"
+    ],
+    "area_localtion": [
+        "深圳"
+    ],
+    "requirement_number": [
+        "2人"
+    ],
+    "education": [
+        "本科"
+    ],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen/co4496704.html",
+        "https://m.51job.com/search/jobmap.php?jobid=105115605&t=1"
+    ],
+    "company": [
+        "深圳市富龙小额贷款有限公司"
+    ],
+    "company_intruduce": [
+        "外资（非欧美）| 10000人以上| 金融/投资/证券"
+    ],
+    "company_addr": [
+        "上班地址 : 雅宝路1号星河World A栋1505"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=105115605&t=1"
+    ],
+    "position_discribe": [
+        "岗位职责：",
+        "1、  负责设计、开发、部署、维护分布式网络爬虫系统，参与数据爬取平台相关工具平台的架构设计与产品开发等工作；为公司业务提供正确稳定的数据分析结果；",
+        "2、  参与数据层建设，专注于基础数据采集平台建设，研究指定网页特点和规律，负责网页信息采集，文档识别及提取、数据清洗加工整理（ETL），结果产出（可视化）等研发和优化工作；",
+        "3、设计爬取、调度和抽取算法，优化系统，有金融相关爬虫经验优先；",
+        "4、负责抓取数据的深刻提取和挖掘；",
+        "5、针对不同网站的反爬虫技术提出有效的应对策略，提升网页抓取的效率和质量。",
+        "任职要求：",
+        "1、本科以上学历，计算机，软件工程相关专业",
+        "2、1-3年PHP、Spider爬虫、python,java等爬虫抓取开发经验，熟悉mongodb，Redis，mysql，SQL Server等数据库技术",
+        "3、熟悉网页抓取原理及技术，熟悉基于Cookie的网站登录原理。精通正则表达式，从结构化的和非结构化的数据中获取信息；熟悉基于正则表达/Xpath/CSS等网页信息提取。",
+        "4、熟悉html/js/css等前端技术优先；；                                                                     ",
+        "5、具有良好的逻辑分析能力、学习能力、沟通能力和协作能力；具有积极的工作态度，勤奋上进，有责任心，独立解决问题的能力。",
+        "                                                ",
+        "6、  擅长，数据分析，数据统计，数据挖掘，数据建模，数据可视化输出。"
+    ],
+    "label": [
+        "五险一金",
+        "绩效奖金",
+        "年终奖金",
+        "定期体检",
+        "周末双休",
+        "节假日福利"
+    ]
+}{
+    "title": [
+        "爬虫开发工程师"
+    ],
+    "salary": [
+        "0.9-1.5万/月"
+    ],
+    "release_time": [
+        "2018-08-04"
+    ],
+    "area_localtion": [
+        "深圳-福田区"
+    ],
+    "requirement_number": [
+        "1人"
+    ],
+    "education": [],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen-ftq/co4202166.html",
+        "https://m.51job.com/search/jobmap.php?jobid=101353488&t=1"
+    ],
+    "company": [
+        "深圳市换换优品科技有限公司"
+    ],
+    "company_intruduce": [
+        "民营公司| 150-500人| 互联网/电子商务"
+    ],
+    "company_addr": [
+        "上班地址 : 车公庙阳光高尔夫大厦9楼整层"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=101353488&t=1"
+    ],
+    "position_discribe": [],
+    "label": [
+        "五险一金"
+    ]
+}{
+    "title": [
+        "初级Python开发工程师-爬虫"
+    ],
+    "salary": [
+        "5-8千/月"
+    ],
+    "release_time": [
+        "2018-08-04"
+    ],
+    "area_localtion": [
+        "深圳-南山区"
+    ],
+    "requirement_number": [
+        "1人"
+    ],
+    "education": [
+        "大专"
+    ],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen-nsq/co5111800.html",
+        "https://m.51job.com/search/jobmap.php?jobid=104845311&t=1"
+    ],
+    "company": [
+        "深圳市祺浩达科技有限公司"
+    ],
+    "company_intruduce": [
+        "民营公司| 150-500人| 电子技术/半导体/集成电路 贸易/进出口"
+    ],
+    "company_addr": [
+        "上班地址 : 高新园地铁站A出口"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=104845311&t=1"
+    ],
+    "position_discribe": [
+        "1、遵守开发流程和编程规范，根据项目需求，实现应用程序设计、编码和调试；",
+        "2、编制软件开发过程相关技术文档。",
+        "任职要求：",
+        "1、大专及以上学历，理工科或计算机专业优先；",
+        "2、至少额外熟悉c，C++，Java中的一门语言；",
+        "3、对计算机算法相关知识，面向对象设计与分析、数据库理论及相关数据库软件的使用等方面有一定的理解和掌握；",
+        "注：应届生可放宽技能要求",
+        "福利待遇：",
+        "1、签订正式劳动合同，公司提供宿舍或住房补贴。",
+        "2、五险一金，周末双休，七小时工作制，无加班。",
+        "3、工资：实习期底薪+项目提成，独立上岗薪资5000-8000元，项目绩效，多劳多得上不封顶。",
+        "公司提供良好的晋升空间，合理的薪资制度，因公司发展需要也可接受实习生，公司提供完善的技术支持。"
+    ],
+    "label": []
+}{
+    "title": [
+        "爬虫开发工程师"
+    ],
+    "salary": [
+        "1-2万/月"
+    ],
+    "release_time": [
+        "2018-08-04"
+    ],
+    "area_localtion": [
+        "深圳-南山区"
+    ],
+    "requirement_number": [
+        "1人"
+    ],
+    "education": [
+        "本科"
+    ],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen-nsq/co4260541.html",
+        "https://m.51job.com/search/jobmap.php?jobid=102235678&t=1"
+    ],
+    "company": [
+        "深圳市前海房极客网络科技有限公司"
+    ],
+    "company_intruduce": [
+        "民营公司| 50-150人| 互联网/电子商务 计算机软件"
+    ],
+    "company_addr": [
+        "上班地址 : 深圳市南山区海信南方大厦18层"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=102235678&t=1"
+    ],
+    "position_discribe": [
+        "岗位职责：",
+        "1. 参与爬虫服务架构的设计和研发；",
+        "2. 负责开发爬虫系统，完成数据采集与爬取、解析处理、入库及备份等数据日常工作；",
+        "3. 研究各种网页探寻特点和规律，负责网页信息抽取、数据清洗等研发和优化工作；",
+        "4. 负责抽取算法和数据库建模的调研和设计，保证抽取、去重、分类、解析、增量融合入库等流程之后的数据结果；",
+        "5. 对反爬机制有研究，有能力破解复杂图片验证码/账号限制/ip限制。",
+        " ",
+        "任职要求：",
+        "1. 掌握Python语言。至少2年以上爬虫、搜索、数据库建模的开发经验。有scrapy项目经验加分；",
+        "2. 熟悉多种网络协议，HTML、Xpath表达式，css选择器；",
+        "3. 掌握数据库：MySQL，Redis，MongoDB等；",
+        "4. 掌握以下开发工具：Git，Jenkins，Docker等；",
+        "5. 熟悉Linux系统；",
+        "6. 具有分布式、多线程/协程/进程的编程经验，有可证明的良好编码习惯，github有个人项目加分；",
+        "7. 良好的沟通能力、团队合作精神。认真负责、具有高度责任感。积极面对工作，发挥主观能动性解决问题，优秀的学习能力。"
+    ],
+    "label": [
+        "年终奖金",
+        "股票期权",
+        "弹性工作"
+    ]
+}{
+    "title": [
+        "爬虫工程师"
+    ],
+    "salary": [
+        "1-2万/月"
+    ],
+    "release_time": [
+        "2018-08-03"
+    ],
+    "area_localtion": [
+        "深圳-福田区"
+    ],
+    "requirement_number": [
+        "3人"
+    ],
+    "education": [
+        "本科"
+    ],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen-ftq/co3214168.html",
+        "https://m.51job.com/search/jobmap.php?jobid=101103665&t=1"
+    ],
+    "company": [
+        "深圳市中安信业创业投资有限公司总部"
+    ],
+    "company_intruduce": [
+        "民营公司| 1000-5000人| 金融/投资/证券 银行"
+    ],
+    "company_addr": [
+        "上班地址 : 时代科技大厦西座9楼"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=101103665&t=1"
+    ],
+    "position_discribe": [
+        "职责描述：",
+        "1、负责分布式爬虫系统的方案设计和开发实施;",
+        "2、负责爬虫系统架构设计和开发（如抓取调度，多样化抓取，页面解析和结构化抽取，海量数据存储和读取）；",
+        "3、设计特定网站爬取策略方法，完成关键技术攻坚，提升爬取效率和稳定性；",
+        "4、负责网页数据抽取算法研究和开发，提升网页数据抓取效率和质量",
+        "5、及时解决生产上的系统问题，并对业务需求提供支持",
+        "任职要求：",
+        "1、本科学历，有4年及以上相关工作经验；有多线程、网络数据处理经验（如http、AJAX等各类网络请求分析、爬虫开发）",
+        "2、熟悉HTTP、HTTPS协议机HTTP Client等工具，能在协议层做性能方面调优，能通过抓包解决爬虫及网络相关问题。",
+        "3、熟悉Python、Java、JS等一种或多种开发语言；",
+        "4、熟悉分布式应用开发原理及多线程开发技术；",
+        "5、熟悉正则表达式、xpath等web信息提取及文本分析技术；",
+        "6、具有大型web登陆分析、爬虫、反爬、浏览器等研发经验者优先；",
+        "7、具有较强的学习能力、自我管理能力、能够在压力环境下工作。"
+    ],
+    "label": [
+        "五险一金",
+        "餐饮补贴",
+        "定期体检",
+        "交通补贴",
+        "年终奖金"
+    ]
+}{
+    "title": [
+        "网络爬虫工程师"
+    ],
+    "salary": [
+        "1.5-2.5万/月"
+    ],
+    "release_time": [
+        "2018-08-01"
+    ],
+    "area_localtion": [
+        "深圳-南山区"
+    ],
+    "requirement_number": [
+        "2人"
+    ],
+    "education": [],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen-nsq/co2398308.html",
+        "https://m.51job.com/search/jobmap.php?jobid=97724277&t=1"
+    ],
+    "company": [
+        "深圳市新国都技术股份有限公司"
+    ],
+    "company_intruduce": [
+        "上市公司| 1000-5000人| 电子技术/半导体/集成电路 金融/投资/证券"
+    ],
+    "company_addr": [
+        "上班地址 : 深圳湾科技生态园10栋"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=97724277&t=1"
+    ],
+    "position_discribe": [
+        "岗位职责：",
+        "1、负责设计和开发分布式的网络爬虫应用，进行互联网相关信息的抓取和分析",
+        "2、负责爬虫系统维护和与现有业务系统的对接",
+        "3、负责网页信息抽取技术的研究和开发；",
+        "4、设计爬取、调度和抽取算法，优化系统；",
+        "5、负责抓取数据的深度提取和挖掘。",
+        "职位要求：",
+        "1、 熟悉常见种类验证码的处理;",
+        "2、精通网页抓取原理及技术，精通正则表达式，从结构化的和非结构化的数据中获取信息；",
+        "3、熟悉linux平台开发；",
+        "4、熟悉搜索引擎和网络爬虫相关技术；",
+        "5、熟悉Scrapy/Lucene/Nutch/Heritrix/HtmlParser等开源工具；"
+    ],
+    "label": [
+        "五险一金",
+        "免费班车",
+        "员工旅游",
+        "年终奖金",
+        "专业培训",
+        "定期体检"
+    ]
+}{
+    "title": [
+        "爬虫开发工程师"
+    ],
+    "salary": [
+        "1-2万/月"
+    ],
+    "release_time": [
+        "2018-07-05"
+    ],
+    "area_localtion": [
+        "深圳-南山区"
+    ],
+    "requirement_number": [
+        "3人"
+    ],
+    "education": [
+        "大专"
+    ],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen-nsq/co4761202.html",
+        "https://m.51job.com/search/jobmap.php?jobid=97561592&t=1"
+    ],
+    "company": [
+        "深圳市大家乐科技有限公司"
+    ],
+    "company_intruduce": [
+        "民营公司| 50-150人| 互联网/电子商务 网络游戏"
+    ],
+    "company_addr": [
+        "上班地址 : 科技中三路一号海王银河科技大厦20楼"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=97561592&t=1"
+    ],
+    "position_discribe": [
+        "岗位描述：",
+        "1)、根据开发流程进行设计，开发，测试，交付以满足需求；",
+        "2)、确保代码和文档的高质高量；",
+        "3)、模块的详细设计与分解；",
+        "岗位要求：",
+        "1.精通常用数据结构，有多线程开发经验",
+        "2.熟悉整个爬虫的设计及实现流程， 有从事网络爬虫,网页信息抽取开发经验",
+        "3.熟悉常用的linux命令",
+        "4.熟悉nutch,httpclient,jsoup等工具",
+        "5.熟悉网页抓取/解析,网页消重, 统计分析等研发经验",
+        "6.熟悉SQL语句",
+        "7.有强烈的求知欲望，喜欢钻研新技术，喜欢代码调试。"
+    ],
+    "label": [
+        "五险一金",
+        "餐饮补贴",
+        "弹性工作",
+        "定期体检",
+        "年终奖金",
+        "员工旅游"
+    ]
+}{
+    "title": [
+        "高级爬虫工程师"
+    ],
+    "salary": [
+        "1.5-2.5万/月"
+    ],
+    "release_time": [
+        "2018-08-03"
+    ],
+    "area_localtion": [
+        "深圳-南山区"
+    ],
+    "requirement_number": [
+        "2人"
+    ],
+    "education": [
+        "大专"
+    ],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen-nsq/co4828615.html",
+        "https://m.51job.com/search/jobmap.php?jobid=97777101&t=1"
+    ],
+    "company": [
+        "深圳市芒柠科技有限公司"
+    ],
+    "company_intruduce": [
+        "民营公司| 少于50人| 计算机软件 互联网/电子商务"
+    ],
+    "company_addr": [
+        "上班地址 : 大冲商务中心B座13楼"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=97777101&t=1"
+    ],
+    "position_discribe": [],
+    "label": [
+        "五险一金",
+        "补充医疗保险",
+        "补充公积金",
+        "员工旅游",
+        "年终奖金",
+        "绩效奖金",
+        "定期体检",
+        "弹性工作",
+        "节日福利"
+    ]
+}{
+    "title": [
+        "初级python爬虫开发工程师(双休+奖金)"
+    ],
+    "salary": [
+        "4.5-8千/月"
+    ],
+    "release_time": [
+        "2018-08-04"
+    ],
+    "area_localtion": [
+        "深圳-福田区"
+    ],
+    "requirement_number": [
+        "3人"
+    ],
+    "education": [
+        "大专"
+    ],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen-ftq/co4571925.html",
+        "https://m.51job.com/search/jobmap.php?jobid=105143291&t=1"
+    ],
+    "company": [
+        "深圳市佳创科技有限公司"
+    ],
+    "company_intruduce": [
+        "民营公司| 50-150人| 计算机软件 计算机服务(系统、数据服务、维修)"
+    ],
+    "company_addr": [
+        "上班地址 : 竹子林益华大厦"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=105143291&t=1"
+    ],
+    "position_discribe": [],
+    "label": [
+        "五险一金",
+        "餐补补贴",
+        "住房补贴",
+        "专业培训",
+        "绩效奖金",
+        "年底双薪",
+        "弹性工作",
+        "员工旅游",
+        "定期体检",
+        "下午茶"
+    ]
+}{
+    "title": [
+        "爬虫开发工程师"
+    ],
+    "salary": [
+        "1-2.5万/月"
+    ],
+    "release_time": [
+        "2018-08-03"
+    ],
+    "area_localtion": [
+        "深圳-南山区"
+    ],
+    "requirement_number": [
+        "3人"
+    ],
+    "education": [
+        "大专"
+    ],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen-nsq/co4190616.html",
+        "https://m.51job.com/search/jobmap.php?jobid=97841516&t=1"
+    ],
+    "company": [
+        "深圳市前海谷雨网络科技有限公司"
+    ],
+    "company_intruduce": [
+        "民营公司| 少于50人| 互联网/电子商务 计算机软件"
+    ],
+    "company_addr": [
+        "上班地址 : 学府路怡化金融科技大厦17楼"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=97841516&t=1"
+    ],
+    "position_discribe": [],
+    "label": [
+        "五险一金",
+        "补充医疗保险",
+        "补充公积金",
+        "员工旅游",
+        "绩效奖金",
+        "年终奖金",
+        "定期体检",
+        "弹性工作",
+        "节日福利",
+        "年底双薪"
+    ]
+}{
+    "title": [
+        "爬虫工程师"
+    ],
+    "salary": [
+        "0.6-1万/月"
+    ],
+    "release_time": [
+        "2018-08-03"
+    ],
+    "area_localtion": [
+        "深圳-福田区"
+    ],
+    "requirement_number": [
+        "3人"
+    ],
+    "education": [
+        "大专"
+    ],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen-ftq/co4898867.html",
+        "https://m.51job.com/search/jobmap.php?jobid=98949373&t=1"
+    ],
+    "company": [
+        "深圳车吧科技有限公司"
+    ],
+    "company_intruduce": [
+        "民营公司| 少于50人| 计算机软件 广告"
+    ],
+    "company_addr": [
+        "上班地址 : 苍松大厦南座13A13"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=98949373&t=1"
+    ],
+    "position_discribe": [
+        "岗位职责: ",
+        "1.负责大数据部门的数据采集与爬取、解析处理、入库及备份等数据日常工作；",
+        "2.参与实现分布式爬虫模块服务架构和数据存储架构的设计和研发； ",
+        "3.参与编写互联网内容的爬虫，制定反爬虫策略； ",
+        "4.负责分析新的数据需求, 评估数据采集难度，安排采集工作及验收相关需求数据。",
+        "任职要求： ",
+        "（必备条件）",
+        "1.计算机相关专业本科以上学历，1年以上数据采集，爬虫相关工作经验；",
+        "2.熟悉常用网络协议，熟悉http代理、模拟登录，动态数据获取等，有扎实的数据结构基础和编码能力；",
+        "3.熟悉postgresql、Mysql、Sql Server 等主流数据库； ",
+        "4.熟悉html和javascript，熟悉linux开发环境，有一定的开发经验，精通网页抓取原理及技术、正则表达式、xpath等；",
+        "5.良好的沟通能力和团队精神，具备逻辑思维能力强，态度认真积极，责任心强，具备快速学习能力。",
+        "如有以下能力优先考虑",
+        "熟悉爬虫、种子、去重、提取、过滤、分发、DNS cache、异步处理等概念和过程；熟练使用SQL/HQL，有NoSql实际使用经验者优先",
+        "薪资福利： ",
+        "1、无责任底薪+五险一金+双休+良好舒适的办公环境。 ",
+        "2、享受标准社会五险及住房公积金。 ",
+        "3、员工福利：双休，带薪休假、年节礼品、下午茶，团队聚餐，出国福利游。 ",
+        "4、工作轻松稳定，无压力。 ",
+        "工作时间：早九晚六，周末双休，法定节假日休息。 "
+    ],
+    "label": [
+        "五险一金",
+        "绩效奖金",
+        "年终奖金",
+        "员工旅游",
+        "下午茶"
+    ]
+}{
+    "title": [
+        "爬虫开发工程师"
+    ],
+    "salary": [
+        "1.5-2万/月"
+    ],
+    "release_time": [
+        "2018-08-03"
+    ],
+    "area_localtion": [
+        "深圳-南山区"
+    ],
+    "requirement_number": [
+        "1人"
+    ],
+    "education": [
+        "大专"
+    ],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen-nsq/co3155806.html",
+        "https://m.51job.com/search/jobmap.php?jobid=101292700&t=1"
+    ],
+    "company": [
+        "深圳市恒程科技创新服务有限公司"
+    ],
+    "company_intruduce": [
+        "民营公司| 150-500人| 专业服务(咨询、人力资源、财会) 互联网/电子商务"
+    ],
+    "company_addr": [
+        "上班地址 : 深圳市南山区科技园北区松坪山路3号奥特迅大厦二层"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=101292700&t=1"
+    ],
+    "position_discribe": [
+        "岗位职责：",
+        "1.负责分布式网络爬虫系统的架构设计与开发（如抓取调度，多样化抓取，页面解析和结构化抽取，海量数据存储和读取等）；",
+        "2.负责爬虫核心算法的策略优化研究，提升爬虫抓取效率和质量（如调权调度、分析预测、质量判断、封禁与反封禁研究等）；",
+        "3.负责HTTP、AJAX等各类网络请求分析，探索和研究高效的数据抓取解决方案 ",
+        "任职要求： ",
+        "1. 精通网络爬虫、互联网搜索、大数据新闻、网络多媒体、网络视频、即时通讯等技术，有着丰富的网络数据爬取工程项目经验；",
+        "2. 了解自然语言处理及语义分析、图像处理、优化算法等理论和技术，丰富的互联网大数据信息处理、搜索引擎、人工智能等行业经验；",
+        "3. 熟悉linux和PHP开发，熟悉shell/perl/python等脚本语言，熟练掌握正则表达式；",
+        "4. 精通一种开源爬虫框架，如scrapy、webmagic、nutch、heritrix等，有开发爬虫框架经验优先；熟悉反爬虫、验证码识别技术者优先；",
+        "5. 有多线程、网络数据处理经验优先（如HTTP协议，AJAX，爬虫开发，浏览器内核开发，Web服务开发等）"
+    ],
+    "label": [
+        "五险一金",
+        "员工旅游",
+        "专业培训",
+        "绩效奖金",
+        "年终奖金",
+        "股票期权",
+        "定期体检"
+    ]
+}{
+    "title": [
+        "Python工程师（爬虫方向）"
+    ],
+    "salary": [
+        "15-20万/年"
+    ],
+    "release_time": [
+        "2018-08-04"
+    ],
+    "area_localtion": [
+        "深圳-南山区"
+    ],
+    "requirement_number": [
+        "若干人"
+    ],
+    "education": [
+        "本科"
+    ],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen-nsq/co2526458.html",
+        "https://m.51job.com/search/jobmap.php?jobid=95338712&t=1"
+    ],
+    "company": [
+        "深圳市涌浪网络技术有限公司"
+    ],
+    "company_intruduce": [
+        "民营公司| 少于50人| 互联网/电子商务 网络游戏"
+    ],
+    "company_addr": [
+        "上班地址 : 沙河世纪假日广场B座507/514"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=95338712&t=1"
+    ],
+    "position_discribe": [
+        "你会负责：",
+        "* 日均千万次抓取请求的分布式爬虫框架的优化与升级；",
+        "* 开发新的网站爬虫，并撰写相关设计文档；",
+        "* 协助架构师设计并实现爬虫数据质量监控平台；",
+        "* 协助数据分析师，完成数据清洗、评估以及可视化。",
+        "（我们将会安排优秀的工程师带你学习公司现有的爬虫框架，了解爬虫相关前沿技术，让你快速融入到公司的开发氛围。）",
+        "希望你：",
+        "* 本科及以上学历；",
+        "* 1年及以上python项目独立开发经验，具备良好的文档撰写能力；",
+        "* 熟悉scrapy、pyspider等爬虫框架者优先，拥有数据抓取经验者优先；",
+        "* 熟悉MySQL等关系型数据库以及SQL语言，至少掌握一种NoSQL数据库，了解mongodb数据库者优先；",
+        "* 熟悉计算机网络、数据结构以及常用算法，对网络、存储性能优化有了解者优先；",
+        "* 具有较强的主动学习能力、良好的沟通表达能力。",
+        "关于我们：",
+        "* 我们是一个年轻的卧卧平台数据科学团队，希望使用技术改变商业世界，实现数据驱动的精细化研究、运营与决策。",
+        "加入我们：",
+        "* 我们专注于前沿技术和产品的研发，包括数据采集沉淀 /分布式处理和存储 /高性能实时运算 /数据挖掘 /自然语言处理 /数据可视化。每天的工作都充满了挑战性，一定不会无聊。",
+        "* 我们的团队很扁平，只有协作没有层级。我们有高度自治的工作氛围，每一个人都有充分的自主权选择更优秀的方案完成自己负责的工作。",
+        "* 我们主力语言是 Python 、 Java 和 Javascript ，技术栈包含  MongoDB  、 Docker ，以及各种自己开发维护的黑科技。我们有着浓厚的工程师文化，乐于尝试大量的开源项目，并做出贡献。",
+        "* - 如果你擅长并热爱这份工作，我们非常期待你的加入，一起改变世界"
+    ],
+    "label": [
+        "五险一金"
+    ]
+}{
+    "title": [
+        "爬虫工程师"
+    ],
+    "salary": [
+        "1-2万/月"
+    ],
+    "release_time": [
+        "2018-08-03"
+    ],
+    "area_localtion": [
+        "深圳-南山区"
+    ],
+    "requirement_number": [
+        "2人"
+    ],
+    "education": [
+        "本科"
+    ],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen-nsq/co4819303.html",
+        "https://m.51job.com/search/jobmap.php?jobid=97930171&t=1"
+    ],
+    "company": [
+        "深圳市源极光科技有限公司"
+    ],
+    "company_intruduce": [
+        "民营公司| 少于50人| 计算机软件"
+    ],
+    "company_addr": [
+        "上班地址 : 深圳市南山区后海大道2388号怡化金融科技大厦18楼"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=97930171&t=1"
+    ],
+    "position_discribe": [],
+    "label": [
+        "五险一金",
+        "补充医疗保险",
+        "补充公积金",
+        "员工旅游",
+        "绩效奖金",
+        "年终奖金",
+        "定期体检",
+        "弹性工作",
+        "节日福利",
+        "带薪年假"
+    ]
+}{
+    "title": [
+        "爬虫开发工程师"
+    ],
+    "salary": [
+        "0.7-1万/月"
+    ],
+    "release_time": [
+        "2018-07-22"
+    ],
+    "area_localtion": [
+        "深圳-南山区"
+    ],
+    "requirement_number": [
+        "1人"
+    ],
+    "education": [
+        "大专"
+    ],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen-nsq/co3448574.html",
+        "https://m.51job.com/search/jobmap.php?jobid=102277775&t=1"
+    ],
+    "company": [
+        "深圳市汇星数字技术有限公司"
+    ],
+    "company_intruduce": [
+        "民营公司| 150-500人| 计算机服务(系统、数据服务、维修) 计算机硬件"
+    ],
+    "company_addr": [
+        "上班地址 : 深圳市南山区科技园朗山路16号华瀚创新园D503"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=102277775&t=1"
+    ],
+    "position_discribe": [
+        "  岗位职责：",
+        "1、负责网络爬虫系统设计、开发。",
+        "2、完成带领团队完成数据采集爬取、解析提取、清洗入库等数据生产工作。",
+        "3、研究网页特点和规律，对网页信息进行分类、抽取、数据清洗、存储结构等研发和优化工作。",
+        "4、负责定向爬取视频资源及相关联信息。",
+        "5、负责领域知识的定向爬取、深度提取和挖掘。",
+        "6、对数据进行清洗、整理、去重及合并等工作。",
+        "任职资格：",
+        "1、大专以上学历，3年以上Python/Java或C#开发经验，熟悉一种开源爬虫系统实现或作为主力参与过一个完整的爬虫开发项目。",
+        "2、熟悉网页爬取原理及技术，熟悉深度抓取、动态网页抓取技术、熟悉请求伪装，模拟登陆，代理应用，爬虫和反爬技术。",
+        "3、精通正则表达式、Javascript、JSON、HTTP协议、HTML，善于从各种结构化和非结构化数据中抽取有用的信息。",
+        "4、熟练多线程技术、网络编程技术等相关优势经验者优先。",
+        "5、熟悉hadoop、hbase、Zookeeper、spark、storm、Solr、hive、kafka、redis、mongodb等相关技术者优先；具有验证码破解经验者优先。 ",
+        "  "
+    ],
+    "label": [
+        "五险一金",
+        "员工旅游",
+        "年终奖金",
+        "定期体检",
+        "婚育福利",
+        "节日福利"
+    ]
+}{
+    "title": [
+        "网络爬虫工程师"
+    ],
+    "salary": [
+        "0.7-1万/月"
+    ],
+    "release_time": [
+        "2018-07-24"
+    ],
+    "area_localtion": [
+        "深圳-南山区"
+    ],
+    "requirement_number": [
+        "1人"
+    ],
+    "education": [
+        "大专"
+    ],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen-nsq/co5041642.html",
+        "https://m.51job.com/search/jobmap.php?jobid=102370781&t=1"
+    ],
+    "company": [
+        "深圳市易诺建设工程有限公司"
+    ],
+    "company_intruduce": [
+        "民营公司| 50-150人| 建筑/建材/工程"
+    ],
+    "company_addr": [
+        "上班地址 : 前海路振业国际商务中心2702室"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=102370781&t=1"
+    ],
+    "position_discribe": [
+        "岗位职责:",
+        "1.负责指定网页的数据采集与爬取、解析处理、入库及备份等数据日常工作；",
+        "2.参与编写互联网内容的爬虫，和爬虫系统维护和与现有业务系统爬虫工作",
+        "3、负责定向爬取指定资源及相关联信息。",
+        "4、公司电脑简单维护工作。",
+        "任职资格：",
+        "1、大专或以上相关学历，熟悉 HTML、DOM、XPath",
+        "2、精通SQLSERVER或MYSQL数据库",
+        "3、精通Python",
+        "4、熟悉C#、python语言优先",
+        "                                    ",
+        "5、有爬虫、信息抽取、文本分类、大数据处理相关经验优先"
+    ],
+    "label": [
+        "五险一金",
+        "年终奖金",
+        "工作餐",
+        "定期体检"
+    ]
+}{
+    "title": [
+        "后端及爬虫工程师-深圳-01007"
+    ],
+    "salary": [
+        "1.5-2.5万/月"
+    ],
+    "release_time": [
+        "2018-07-24"
+    ],
+    "area_localtion": [
+        "深圳-南山区"
+    ],
+    "requirement_number": [
+        "1人"
+    ],
+    "education": [
+        "本科"
+    ],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen-nsq/co3801996.html",
+        "https://m.51job.com/search/jobmap.php?jobid=102145630&t=1"
+    ],
+    "company": [
+        "北京比特大陆科技有限公司"
+    ],
+    "company_intruduce": [
+        "民营公司| 1000-5000人| 互联网/电子商务"
+    ],
+    "company_addr": [
+        "上班地址 : 桃园路1号西海明珠大厦F座20层2001室"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=102145630&t=1"
+    ],
+    "position_discribe": [
+        "职位描述:",
+        "1.使用go/python完成基于restful风格和基于websocket的服务端开发；",
+        "2.参与制定服务交互流程，与对接方协商设计接口协议；",
+        "3.编写爬虫项目爬取web上的文本信息，并做初步信息提取；",
+        "4.负责服务项目及爬虫项目的实现设计，编码，调优，测试，使用和接口文档撰写及Bug处理。",
+        "岗位要求：",
+        "1.学历: 国内211本科以上或国外类似水平，专业: 计算机/软件工程/数据科学；",
+        "2.工作经验:1-3年；",
+        "3.有扎实的计算机理论基础，了解数据结构、计算机网络、关系数据库理论；熟悉类Unix系统；",
+        "4.精通Go和python，精通基于restful风格和基于websocket的web后端编程，有良好的编程习惯和代码风格；",
+        "5.精通redis/postgresql，会设计关系型数据库的schema，同时有将非结构化数据提取转化为结构化数据的经验；",
+        "6.掌握基本数据采集、模拟登陆、http代理、动态数据获取、html文本信息提取等技术；",
+        "7.有git使用经验；",
+        "8.良好的沟通能力和团队精神，具备较强逻辑思维能力，态度认真积极，责任心强，具备快速学习能力。"
+    ],
+    "label": [
+        "五险一金",
+        "补充医疗保险",
+        "餐饮补贴",
+        "弹性工作",
+        "定期体检",
+        "绩效奖金",
+        "出国机会",
+        "年终奖金",
+        "员工旅游",
+        "免费班车"
+    ]
+}{
+    "title": [
+        "高级爬虫组开发经理"
+    ],
+    "salary": [
+        "2.5-5万/月"
+    ],
+    "release_time": [
+        "2018-08-04"
+    ],
+    "area_localtion": [
+        "深圳-南山区"
+    ],
+    "requirement_number": [
+        "1人"
+    ],
+    "education": [
+        "本科"
+    ],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen-nsq/co4836302.html",
+        "https://m.51job.com/search/jobmap.php?jobid=104372317&t=1"
+    ],
+    "company": [
+        "爱客科技（深圳）有限公司"
+    ],
+    "company_intruduce": [
+        "外资（非欧美）| 50-150人| 互联网/电子商务 计算机服务(系统、数据服务、维修)"
+    ],
+    "company_addr": [
+        "上班地址 : 中国地质大学产学研基地2楼科技寺A208"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=104372317&t=1"
+    ],
+    "position_discribe": [
+        "职位诱惑：",
+        "***,国际团队,全球项目,三年盈利",
+        "网络爬虫 (组长) 高級后台工程师",
+        "if (your.passions.include('coding')) {",
+        "switch(your.role) {",
+        "  case 'coder':",
+        "  case 'geek':",
+        "  case 'nerd':",
+        "  case 'gatekeeper_of_gatekeepers':",
+        "  case 'red_or_blue_pill':",
+        "    console.log('来加入我们 AfterShip =]');",
+        "  break;",
+        "  default:",
+        "}  ",
+        "}",
+        "AfterShip.stacks = ['Python', 'Scrapy', 'k8s', 'ipa', 'Service Worker', 'AWS', 'GCP', 'Serverless', 'NoSQL'];",
+        "岗位职责：",
+        "1、负责后台与不同物流公司的系统对接，使用各种 API及网络爬虫技巧，抓取、分析、调度、存储，为公司业务提供正确稳定的数据。",
+        "2、负责快递查询系统之 SLA , 代码维护、秩代更新，保证任务质量和交付及时性。",
+        "3、负责编写相关的技术文档。",
+        "4、负责编制单元测试，提高系统覆盖率，敢于对产品质量负责。",
+        "5、负责制定技术标准及研究新技术，有效地提高工作效率。",
+        "6、负责系统关键模块的技术攻关，协助解决项目中的难题。",
+        "7、负责根据部门战略目标，制定团队的工作目标，进行团队的质量管理和能力建设。",
+        "岗位要求：",
+        "1、至少 1 年带团队经验。",
+        "2、统招本科及以上学历，计算机相关专业（985/211院校优先）；",
+        "3、2 年或以上 Nodejs / Python 开发工作经验，优秀的 Javascript 基本功。",
+        "4、熟悉 Git / Github，通信协议 TCP/HTTP 及 RESTful 标准。",
+        "5、熟悉主流测试方法、工具，并不断结合前沿技术提升整体测试效率和研发质量。",
+        "6、熟悉敏捷开发工具及开发流程。",
+        "7、有 MySQL、 Redis 或 MongoDB 等相关数据库使用经验。",
+        "8、有 Scrapy 等使用经验。",
+        "9、有 Docker、Kubernetes、AWS 或 GCP 云计算经验者优先。",
+        "10、有 CI / CD 自动化持续集成和持续交付经验者优先。",
+        "11、具备英语听说读写能力，CET6或以上。"
+    ],
+    "label": [
+        "五险一金",
+        "年终奖金",
+        "交通补贴",
+        "餐饮补贴",
+        "专业培训",
+        "弹性工作"
+    ]
+}{
+    "title": [
+        "python爬虫工程师"
+    ],
+    "salary": [
+        "1-1.5万/月"
+    ],
+    "release_time": [
+        "2018-08-04"
+    ],
+    "area_localtion": [
+        "深圳-龙岗区"
+    ],
+    "requirement_number": [
+        "1人"
+    ],
+    "education": [
+        "本科"
+    ],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen-lgq/co3647587.html",
+        "https://m.51job.com/search/jobmap.php?jobid=88553405&t=1"
+    ],
+    "company": [
+        "深圳前海帕拓逊网络技术有限公司"
+    ],
+    "company_intruduce": [
+        "民营公司| 1000-5000人| 互联网/电子商务"
+    ],
+    "company_addr": [
+        "上班地址 : 五和大道南49号金方华电商产业园6栋B102"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=88553405&t=1"
+    ],
+    "position_discribe": [
+        "1. 2年以上Python开发经验，熟悉网络爬虫或数据处理和分析相关的开发；",
+        "2. 负责web数据采集相关的开发，熟悉web数据的抓取、解析等开发工作，有一定数据清洗和分析基础；",
+        "3. 熟悉应对反爬策略的方式方法，并有成功绕过反爬策略的案例；",
+        "4. 具有很强的技术钻研能力。",
+        "任职资格:",
+        "1. 精通python，scrapy，pyspider，Selenium 等框架，深入研究过scrapy，pyspider框架的源码，并能对scrapy，pyspider框架的源码进行修改和优化；",
+        "2. 熟悉网络抓包工具，熟悉使用正则表达式；熟悉HTTP传输协议，能模拟各类操作进行数据的爬取；",
+        "3. 了解数据清洗和分析相关的工具，了解大数据分析；",
+        "4. 具有较强的分析和解决问题能力，以解决技术难题为乐趣，有想法，敢于挑战；",
+        "5. 熟悉MySQL、mongodb、有数据库开发经验者优先，有 GitHub 地址或技术博客地址者优先。",
+        "部门特色亮点：",
+        "1，部门采用OKR（目标与关键结果）管理，每次OKR达成之后奖励3天的带薪假期；",
+        "2，使用游戏币对员工进行激励，员工之间可以相互点赞并发数字币，数字币可以兑换为礼品；",
+        "3，使用看板管理，所有的价值及任务流通都通过物理看板及电子看板进行管理，真正的敏捷开发；",
+        "4，20人技术团队，团队核心成员来自唯品会，360等大公司。",
+        "项目介绍：",
+        "和技术团队一起参与完成每天上千万次抓取量的抓取服务实战，参与数据采集，数据清洗，结构化等步骤最后让数据用来做商业分析的整个过程。如果您是大神，可以来这里一展所学；如果你是初学者，来这里感受什么是极速成长。"
+    ],
+    "label": []
+}{
+    "title": [
+        "爬虫工程师"
+    ],
+    "salary": [
+        "1.5-2万/月"
+    ],
+    "release_time": [
+        "2018-08-03"
+    ],
+    "area_localtion": [
+        "深圳-福田区"
+    ],
+    "requirement_number": [
+        "若干人"
+    ],
+    "education": [
+        "本科"
+    ],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen-ftq/co5032502.html",
+        "https://m.51job.com/search/jobmap.php?jobid=103158302&t=1"
+    ],
+    "company": [
+        "深圳市前海锐义金融服务有限公司"
+    ],
+    "company_intruduce": [
+        "民营公司| 150-500人| 金融/投资/证券"
+    ],
+    "company_addr": [
+        "上班地址 : 生命保险大厦"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=103158302&t=1"
+    ],
+    "position_discribe": [
+        "1、高效地获取外部数据，满足公司对数据的需要； ",
+        "2、负责模拟登录，数据抓取，数据解析等开发工作； ",
+        "3、负责优化和完善爬虫基础框架和工具，确保数据获取稳定性；",
+        "任职要求：",
+        "1、计算机相关专业，三年以上开发经验，熟练掌握JAVA、javascript等编程语言，懂python者优先； ",
+        "2、熟悉http协议、ajax、htmlunit、Jsoup、XPATH，css selector 等技术； ",
+        "3、熟悉浏览器调试技术，有Web开发经验和关系数据库使用经验； ",
+        "4、有验证码识别、脱壳反编译、动态ip代理、大数据检索等实际经验优先； ",
+        "5、fullstack工程师优先。"
+    ],
+    "label": []
+}{
+    "title": [
+        "Python高级爬虫工程师"
+    ],
+    "salary": [
+        "2.5-3.5万/月"
+    ],
+    "release_time": [
+        "2018-07-31"
+    ],
+    "area_localtion": [
+        "深圳-南山区"
+    ],
+    "requirement_number": [
+        "1人"
+    ],
+    "education": [
+        "本科"
+    ],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen-nsq/co4737300.html",
+        "https://m.51job.com/search/jobmap.php?jobid=103350111&t=1"
+    ],
+    "company": [
+        "深圳电竞风暴科技有限公司"
+    ],
+    "company_intruduce": [
+        "民营公司| 50-150人| 网络游戏 互联网/电子商务"
+    ],
+    "company_addr": [
+        "上班地址 : 蚂蚁邦加速中心"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=103350111&t=1"
+    ],
+    "position_discribe": [
+        "岗位职责 ",
+        "1. 分布式网页抓取平台的研发、完善和运维,主要爬取内容为moba游戏数据（Dota2、LoL、王者荣耀等） ",
+        "2. 产品后端 API 的开发，实现高性能、高可用及可扩展的后端代码； ",
+        "3. 线上分布式环境的自动化运维、监控、性能调优。 ",
+        "职位要求 ",
+        "1. 了解多线程、多进程、网络通信编程相关知识，有分布式爬虫架构，数据挖掘经验； ",
+        "2. 具有较强的分析和解决问题的能力，具有一定的moba游戏经验； ",
+        "3. 良好的工作习惯，态度端正，实现数据的抓取及数据规则清洗工作，保证正确的入库数据； ",
+        "4. 熟悉至少一门高级编程语言（例如 Python/C++/JAVA ）并有5年以上实际开发的经验。",
+        "5. 精通mysql，至少熟悉一种nosql(mongodb、hbase)，能根据实际问题，进行schema设计，并具有一定的运维优化经验"
+    ],
+    "label": [
+        "五险一金",
+        "绩效奖金",
+        "年终奖金",
+        "弹性工作",
+        "带薪年假"
+    ]
+}{
+    "title": [
+        "Java开发工程师+python开发工程师+爬虫"
+    ],
+    "salary": [
+        "1-1.5万/月"
+    ],
+    "release_time": [
+        "2018-08-03"
+    ],
+    "area_localtion": [
+        "深圳-宝安区"
+    ],
+    "requirement_number": [
+        "3人"
+    ],
+    "education": [],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen-baq/co3865892.html",
+        "https://m.51job.com/search/jobmap.php?jobid=103364867&t=1"
+    ],
+    "company": [
+        "深圳义合信达科技有限公司"
+    ],
+    "company_intruduce": [
+        "民营公司| 少于50人| 互联网/电子商务 计算机软件"
+    ],
+    "company_addr": [
+        "上班地址 : 西部硅谷"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=103364867&t=1"
+    ],
+    "position_discribe": [
+        "岗位职责：",
+        "1.负责设计和开发分布式网络爬虫系统，进行多平台信息的抓取和分析工作； ",
+        "2.负责网页信息和数据抽取、清洗、消重等工作，提升平台的抓取效率；",
+        "3.参与爬虫核心算法和策略优化，熟悉采集系统的调度策略；",
+        "4.实时监控爬虫的进度和警报反馈。",
+        "任职要求：",
+        "1、专科以上学历，Java基础扎实，具备爬虫开发经验； ",
+        "2、熟悉Java网络爬虫框架（jsoup、Selenium、HttpClient、HtmlUnit等至少一种）,熟练selenium优先； ",
+        "3、熟练掌握HTML、CSS、Javascript等页面技术； ",
+        "4、熟悉MySQL，MongoDB等数据库至少其中一种，熟悉SQL语言；  ",
+        "5、掌握linux基本操作，有python相关经验者优先，熟悉restful api规则； ",
+        "6、具有较强的分析和解决问题能力，有责任心，积极主动。",
+        "7、有航空旅游行业相关经验优先",
+        " "
+    ],
+    "label": [
+        "五险一金",
+        "补充医疗保险",
+        "员工旅游",
+        "年终奖金",
+        "绩效奖金",
+        "专业培训",
+        "定期体检",
+        "餐饮补贴",
+        "弹性工作"
+    ]
+}{
+    "title": [
+        "爬虫开发工程师"
+    ],
+    "salary": [
+        "0.8-1.5万/月"
+    ],
+    "release_time": [
+        "2018-07-26"
+    ],
+    "area_localtion": [
+        "深圳-龙岗区"
+    ],
+    "requirement_number": [
+        "1人"
+    ],
+    "education": [],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen-lgq/co4874751.html",
+        "https://m.51job.com/search/jobmap.php?jobid=101989857&t=1"
+    ],
+    "company": [
+        "深圳市炽盛科技有限公司"
+    ],
+    "company_intruduce": [
+        "民营公司| 150-500人| 贸易/进出口 互联网/电子商务"
+    ],
+    "company_addr": [
+        "上班地址 : 深圳市龙岗区横岗街道六约社区龙塘工业区5号2楼,"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=101989857&t=1"
+    ],
+    "position_discribe": [
+        "1.负责开发分布式网络爬虫系统，完成数据采集与爬取、解析处理、入库及备份等数据日常工作；",
+        "2.研究各种网页探寻特点和规律，负责网页信息抽取、数据清洗等研发和优化工作；",
+        "3.负责领域知识的定向爬取、深度提取和挖掘；",
+        "4.参与分布式爬虫模块服务架构和数据存储架构的设计和研发；",
+        "5.完成领导交代的其他任务。",
+        "1.大专或以上学历，两年以上互联网或企业级网络爬虫开发经验；",
+        "2.精通requests， 熟练掌握lxml等解析工具, 多任务处理，scrapy爬虫框架，flask等Python 的web框架，代理池应用、selenium， 移动端测试框架；",
+        "3.熟悉SQL， MySQL，MongoDB， redis等数据库应用；",
+        "4.熟悉网页抓取原理及技术，熟悉基于Cookie的网站登录原理，熟悉基于正则表达式、Xpath、CSS等网页信息；",
+        "5.熟悉Python/java 编程语言，精通Javascript，对HTTP协议及HTML有深入的了解；",
+        "6.有爬虫系统开发经验者优先；",
+        "7.良好的沟通能力、团队合作精神; 认真负责、具有高度责任感; 优秀的学习能力。"
+    ],
+    "label": [
+        "五险一金",
+        "员工旅游",
+        "餐饮补贴",
+        "交通补贴",
+        "出国机会",
+        "专业培训",
+        "年终奖金",
+        "绩效奖金",
+        "员工宿舍"
+    ]
+}{
+    "title": [
+        "非现场监测部-爬虫工程师"
+    ],
+    "salary": [
+        "0.8-1.5万/月"
+    ],
+    "release_time": [
+        "2018-08-02"
+    ],
+    "area_localtion": [
+        "深圳-福田区"
+    ],
+    "requirement_number": [
+        "1人"
+    ],
+    "education": [
+        "本科"
+    ],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen-ftq/co2918821.html",
+        "https://m.51job.com/search/jobmap.php?jobid=103941975&t=1"
+    ],
+    "company": [
+        "中国太平保险集团稽核中心"
+    ],
+    "company_intruduce": [
+        "国企| 150-500人| 保险 会计/审计"
+    ],
+    "company_addr": [
+        "上班地址 : 益田路6001号太平金融大厦17楼"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=103941975&t=1"
+    ],
+    "position_discribe": [
+        "岗位职责：",
+        "    ",
+        "1、负责分布式网络爬虫系统的架构设计与开发；",
+        "    ",
+        "2、负责多平台信息和页面内容的采集与爬取、解析处理、数据清洗、入库及备份；",
+        "    ",
+        "3、负责外部API数据接口的开发和维护；",
+        "    ",
+        "4、负责图片、文本、语音等非结构化数据的处理和应用；",
+        "    ",
+        "    ",
+        "    ",
+        "    ",
+        "任职资格：",
+        "    ",
+        "1、计算机、数学或者相关专业本科以上学历，英语4级以上; ",
+        "    ",
+        "2、2年及以上Python开发经验，熟悉爬虫与反爬虫原理及技术；",
+        "    ",
+        "3、掌握网页抓取原理及技术，了解基于Cookie的登录原理，熟悉Beautiful  Soup、selenium、XPath、xlml等网页信息抽取技术，熟悉代理池应用；",
+        "    ",
+        "4、熟悉scrapy、pyspider等分布式爬虫框架者优先，拥有数据抓取经验者优先；",
+        "    ",
+        "5、熟悉SQL， MySQL，MongoDB， redis等数据库应用；",
+        "    ",
+        "6、掌握linux基本操作，熟悉restful api规则；",
+        "    ",
+        "7、了解自然语言处理、图像处理、社会关系网络、机器学习、深度学习等理论和应用，了解pyhton中numpy、pandas库的应用；"
+    ],
+    "label": [
+        "五险一金",
+        "绩效奖金",
+        "补充商业保险",
+        "企业年金",
+        "午餐补助",
+        "节日福利",
+        "带薪年假",
+        "专业培训",
+        "定期体检"
+    ]
+}{
+    "title": [
+        "爬虫工程师"
+    ],
+    "salary": [
+        "1-1.8万/月"
+    ],
+    "release_time": [
+        "2018-08-03"
+    ],
+    "area_localtion": [
+        "深圳-龙岗区"
+    ],
+    "requirement_number": [
+        "1人"
+    ],
+    "education": [
+        "本科"
+    ],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen-lgq/co3728201.html",
+        "https://m.51job.com/search/jobmap.php?jobid=104220595&t=1"
+    ],
+    "company": [
+        "深圳市宏博伟智科技有限公司"
+    ],
+    "company_intruduce": [
+        "民营公司| 50-150人| 互联网/电子商务"
+    ],
+    "company_addr": [
+        "上班地址 : 坂田街道环城南路5号坂田国际中心D栋8楼"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=104220595&t=1"
+    ],
+    "position_discribe": [
+        "任职资格：",
+        "1、计算机相关专业本科以上学历，2年以上亚马逊平台数据采集、爬虫相关工作经验；",
+        "2、精通java或者python，熟悉一种以上主流的爬虫工具优先，如webmagic，nutch等；",
+        "3、丰富的爬虫经验，能够解决反爬虫、网络异常等各种常见爬虫问题；",
+        "4、熟悉网络编程(TCP/HTTP 协议)，多线程、多进程相关知识，有大型B2C、C2C电商网站分布式爬虫架构、数据挖掘等实践经验者优先。",
+        "岗位职责：",
+        "1、负责公司商业大数据爬虫系统的架构、设计、研发与管理维护；",
+        "2、负责网络数据抓取规划、清洗以及汇总的开发工作；",
+        "3、定期爬取指定网站（如亚马逊、ebay平台）的数据，为业务部门提供数据支持；",
+        "4、挖掘算法优化，数据分类及分布统计，为其他部门提供特定需求的数据。"
+    ],
+    "label": [
+        "带薪年假",
+        "五险一金",
+        "绩效奖金",
+        "节日福利",
+        "加班补贴",
+        "补充医疗保险",
+        "年终奖金"
+    ]
+}{
+    "title": [
+        "软件开发工程师（爬虫Python）"
+    ],
+    "salary": [
+        "1-1.8万/月"
+    ],
+    "release_time": [
+        "2018-08-02"
+    ],
+    "area_localtion": [
+        "深圳-龙岗区"
+    ],
+    "requirement_number": [
+        "1人"
+    ],
+    "education": [
+        "大专"
+    ],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen-lgq/co3471108.html",
+        "https://m.51job.com/search/jobmap.php?jobid=104496796&t=1"
+    ],
+    "company": [
+        "深圳市动车电气股份有限公司"
+    ],
+    "company_intruduce": [
+        "民营公司| 150-500人| 计算机服务(系统、数据服务、维修) 电子技术/半导体/集成电路"
+    ],
+    "company_addr": [
+        "上班地址 : 坂田地铁站B出口 动车国际大厦"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=104496796&t=1"
+    ],
+    "position_discribe": [
+        "岗位职责：",
+        "1、  负责设计、开发、部署、维护分布式网络爬虫系统，参与数据爬取平台相关工具平台的架构设计与产品开发等工作；为公司业务提供正确稳定的数据分析结果；",
+        "2、  参与数据层建设，专注于基础数据采集平台建设，研究指定网页特点和规律，负责网页信息采集，文档识别及提取、数据清洗加工整理（ETL），结果产出（可视化）等研发和优化工作；",
+        "3、设计爬取、调度和抽取算法，优化系统；",
+        "4、负责抓取数据的深刻提取和挖掘；",
+        "                5、针对不同网站的反爬虫技术提出有效的应对策略，提升网页抓取的效率和质量。",
+        "任职要求：",
+        "1、本科以上学历，计算机，软件工程相关专业",
+        "2、1-3年PHP、Spider爬虫、python,java等爬虫抓取开发经验，熟悉mongodb，Redis，mysql，SQL  Server等数据库技术",
+        "3、熟悉网页抓取原理及技术，熟悉基于Cookie的网站登录原理。精通正则表达式，从结构化的和非结构化的数据中获取信息；熟悉基于正则表达/Xpath/CSS等网页信息提取。 ",
+        "4、熟悉html/js/css等前端技术优先；；                                                                       ",
+        "                ",
+        "5、具有良好的逻辑分析能力、学习能力、沟通能力和协作能力；具有积极的工作态度，勤奋上进，有责任心，独立解决问题的能力。"
+    ],
+    "label": [
+        "五险一金",
+        "员工旅游",
+        "绩效奖金",
+        "年终奖金",
+        "股票期权",
+        "专业培训",
+        "定期体检"
+    ]
+}{
+    "title": [
+        "急聘爬虫开发工程师"
+    ],
+    "salary": [
+        "1.4-1.5万/月"
+    ],
+    "release_time": [
+        "2018-08-04"
+    ],
+    "area_localtion": [
+        "深圳-福田区"
+    ],
+    "requirement_number": [
+        "3人"
+    ],
+    "education": [
+        "大专"
+    ],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen-ftq/co3922437.html",
+        "https://m.51job.com/search/jobmap.php?jobid=102463477&t=1"
+    ],
+    "company": [
+        "深圳市博悦科创科技有限公司"
+    ],
+    "company_intruduce": [
+        "民营公司| 500-1000人| 计算机软件 互联网/电子商务"
+    ],
+    "company_addr": [
+        "上班地址 : 购物公园"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=102463477&t=1"
+    ],
+    "position_discribe": [
+        "1、负责设计和开发分布式的网络爬虫应用，进行互联网相关信息的抓取和分析；",
+        "2、完成定向数据的采集与爬取、解析处理、入库等数日常工作；",
+        "3、维护、优化现有的采集程序，提升爬虫的抓取效率和质量;",
+        "4、协助完成需求收集、分析，测试和部署，编写开发过程中涉及的相关文档。",
+        "任职要求：",
+        "1、具备Java两年以上开发经验，Java基础扎实，具备爬虫开发经验；",
+        "2、熟悉Java网络爬虫框架（electron、jsoup、Selenium、HttpClient、HtmlUnit等至少一种）；",
+        "3、熟练掌握HTML、CSS、Javascript等页面技术，熟悉angularjs；",
+        "4、熟练使用正则表达式、xpath、css选择器等页面提取方式，能够从结构化的和非结构化的数据中提取信息；",
+        "5、熟悉MySQL，MongoDB，oracle等数据库至少其中一种，熟悉SQL语言；",
+        "6、熟悉redis、RabbitMQ等消息中间件技术；",
+        "7、熟悉反爬虫技术，了解反爬机制；",
+        "8、熟悉应用服务器，熟悉Tomcat、Apache的配置及其优化；",
+        "9、熟悉ssh等常用框架，多线程、网络通信编程相关知识；",
+        "10、掌握linux基本操作，有python、nodejs相关经验者优先；",
+        "11、对APP采集有经验（包括抓包工具，APP模拟器等）者优先；"
+    ],
+    "label": [
+        "五险一金",
+        "年终奖金",
+        "定期体检"
+    ]
+}{
+    "title": [
+        "爬虫技术专家"
+    ],
+    "salary": [
+        "3.5-6.5万/月"
+    ],
+    "release_time": [
+        "2018-07-31"
+    ],
+    "area_localtion": [
+        "深圳"
+    ],
+    "requirement_number": [
+        "1人"
+    ],
+    "education": [
+        "本科"
+    ],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen/co1989242.html",
+        "https://m.51job.com/search/jobmap.php?jobid=101239132&t=1"
+    ],
+    "company": [
+        "鹏元征信有限公司"
+    ],
+    "company_intruduce": [
+        "民营公司| 150-500人| 计算机服务(系统、数据服务、维修) 计算机软件"
+    ],
+    "company_addr": [
+        "上班地址 : 深圳市深南大道7008号阳光高尔夫大厦4楼"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=101239132&t=1"
+    ],
+    "position_discribe": [
+        "1.负责分布式网络爬虫系统的架构设计与开发（如抓取调度，多样化抓取，页面解析和结构化抽取，海量数据存储和读取等） ；",
+        "2.负责爬虫核心算法的策略优化研究，提升爬虫抓取效率和质量（如调权调度、分析预测、质量判断、封禁与反封禁研究等）;",
+        "3.负责HTTP、AJAX等各类网络请求分析，探索和研究高效的数据抓取解决方案 。",
+        "任职要求： ",
+        "1. 精通网络爬虫、互联网搜索、大数据新闻、网络多媒体、网络视频、即时通讯等技术，有着丰富的网络数据爬取工程项目经验；",
+        "2. 熟悉自然语言处理及语义分析、图像处理、优化算法等理论和技术，丰富的互联网大数据信息处理、搜索引擎、人工智能等行业经验；",
+        "3. 熟悉linux和Java开发，熟悉shell/perl/python等脚本语言，熟练掌握正则表达式；",
+        "4. 精通一种开源爬虫框架，如scrapy、webmagic、nutch、heritrix等，有开发爬虫框架经验优先；熟悉反爬虫、验证码识别技术者优先；",
+        "5. 有多线程、网络数据处理经验优先（如HTTP协议，AJAX，爬虫开发，浏览器内核开发，Web服务开发等）；",
+        "6. 有大规模分布式海量数据处理经验（Hadoop/Hbase/Spark/Strom/Flink等）；",
+        "7. 具备较强团队合作与敬业精神，富于创新，拥有较强的研究能力、学习能力与执行能力。"
+    ],
+    "label": [
+        "五险一金",
+        "补充医疗保险",
+        "员工旅游",
+        "交通补贴",
+        "餐饮补贴",
+        "通讯补贴",
+        "绩效奖金",
+        "年终奖金",
+        "股票期权",
+        "定期体检"
+    ]
+}{
+    "title": [
+        "我不是 Java爬虫架构师 神"
+    ],
+    "salary": [
+        "2.5-4万/月"
+    ],
+    "release_time": [
+        "2018-08-03"
+    ],
+    "area_localtion": [
+        "深圳-南山区"
+    ],
+    "requirement_number": [
+        "1人"
+    ],
+    "education": [
+        "本科"
+    ],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen-nsq/co3539709.html",
+        "https://m.51job.com/search/jobmap.php?jobid=104713314&t=1"
+    ],
+    "company": [
+        "深圳市随手科技有限公司"
+    ],
+    "company_intruduce": [
+        "民营公司| 500-1000人| 互联网/电子商务 金融/投资/证券"
+    ],
+    "company_addr": [
+        "上班地址 : 深圳市随手科技有限公司 深圳市南山科技园科技南十二道金蝶软件园"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=104713314&t=1"
+    ],
+    "position_discribe": [
+        "职位描述：",
+        "我就是想求求你，",
+        "别再说我花了一天爬的数据像是用了五分钟编出来的了好吗？",
+        "我做爬虫五年，爬了各种网站，对抗了各种反爬技术，午觉我也不睡",
+        "现在好不容易把数据爬出来了，你非说它像是用五分钟编出来的",
+        "那数据有不有效，你能不知道吗？",
+        "我一个月工资才五千块，我根本没赚钱。",
+        "谁能保证数据完全准确，除非你能再招到这样一个爬虫架构师！",
+        "【他需要负责】",
+        "1、行业技术研究与选型、爬虫架构平台规划与设计；",
+        "2、优化现有网络爬虫架构，解决网络爬虫中关键问题，把握网络复杂平台的设计，确保平台的架构质量，核心框架部分代码编写、指导和培训工程师、不断进行系统优化。",
+        "3、负责分布式网络爬虫系统新的架构设计与开发，设计爬虫整体框架，提升稳定性和效率。",
+        "【他还具备以下技能包】",
+        "1、八年左右互联网开发经验，3年以上爬虫架构经验，本科以上学历，计算机软件相关专业，Java基础扎实，精通面向对象、设计模式以及相关优化工作；",
+        "2、有相关大型爬虫经验，从事过大型爬虫架构的设计和研发，能设计出稳定的爬虫架构.",
+        "3、熟练掌握mysql，memcached，redis等主流数据存储系统和分布式存储等,可对系统进行性能调优；",
+        "4、对常用的框架Spring，Spring MVC,Spring Boot，Spring Cloud，iBatis等有深入了解；",
+        "5、熟练掌握各种常用开源框架，对源码和设计有一定的了解；",
+        "6、有很强的分析问题和解决问题的能力，有强烈的责任心；",
+        "7、有良好的代码编写、单元测试、注释以及文档的习惯；",
+        "8、对技术有强烈的兴趣，喜欢钻研，具有良好的学习沟通能力、较强责任心、工作积极性以及团队协作能力。",
+        "人生若只如初见，何事秋风悲画扇！既然我找不到你，只好站在显眼的地方让你找到了。",
+        "我们已经准备好迎接你，奔跑着把简历投过来吧！",
+        "【你将得到】",
+        "☆五天八小时弹性工作制（双休）",
+        "☆足额五险一金及商业保险",
+        "☆免费办理深户   ",
+        "☆菜式丰富的大餐厅（早餐、午餐、晚餐）",
+        "☆市区内多条线路班车（罗湖、福田、宝安、龙华）    ",
+        "☆美味下午茶",
+        "☆生日Party，分享美味蛋糕",
+        "☆各类特色社团活动丰富",
+        "☆带薪年假、病假、足额加班调休假",
+        "☆年度体检",
+        "☆国际或国内线路员工旅游",
+        "【我们的氛围是这样的】",
+        "☆公司于2011年成立，是国内最大的个人理财金融服务提供商，旗下拥有随手记、卡牛信用卡管家和随管家等多款明星应用产品，服务用户超过2.6亿，已获得B+轮数千万美元融资，是科技金融领域的领头羊。",
+        "☆曾获2016德勤高科技高成长500强亚太区第76名、2016毕马威中国领先金融科技公司50强、2015拉勾网年度新锐雇主、美国商业杂志《快公司》中文版评选的 2015中国最佳创新公司50强等殊荣。",
+        "☆核心团队成员均曾分别供职于知名互联网公司、金融机构、跨国企业，你可以和大咖那里学到很多的知识经验；",
+        "☆这里没有没有办公室政治，你完全可以等到下一个工作里再戴上面具；",
+        "☆简单地说，这是一个工作扎实而环境单纯的公司，如果你的成长迅速，超越了我们的平台，那么我们也希望你在我们这里可以起跳，步入更好的轨道以后和我们一直做朋友。",
+        "公司目前处于迅速发展的上升期，加入我们，除了技能快速提升和职位晋升外，还能得到薪酬福利的飞速增长，并有机会获得原始股份期权，享受上市之后的巨大收益。"
+    ],
+    "label": [
+        "五险一金",
+        "员工旅游",
+        "年终奖金",
+        "弹性工作",
+        "定期体检"
+    ]
+}{
+    "title": [
+        "Python高级爬虫工程师"
+    ],
+    "salary": [
+        "2.5-3万/月"
+    ],
+    "release_time": [
+        "2018-08-02"
+    ],
+    "area_localtion": [
+        "深圳"
+    ],
+    "requirement_number": [
+        "若干人"
+    ],
+    "education": [
+        "本科"
+    ],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen/co4789434.html",
+        "https://m.51job.com/search/jobmap.php?jobid=104921734&t=1"
+    ],
+    "company": [
+        "海南新浪爱问普惠科技有限公司"
+    ],
+    "company_intruduce": [
+        "民营公司| 150-500人| 互联网/电子商务 金融/投资/证券"
+    ],
+    "company_addr": [
+        "上班地址 : 南山区科技南八路超多维科技大厦"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=104921734&t=1"
+    ],
+    "position_discribe": [
+        "岗位职责：",
+        "1、负责设计、开发、维护、重构分布式的网络爬虫，包括调度、抓取、维护、验证等爬虫工作；",
+        "2、负责抽取算法和数据库建模的调研和设计，保证抽取、去重、分类、解析、增量融合入库等流程之后的数据结果；",
+        "3、对反爬机制有研究，有能力破解复杂图片验证码/账号限制/ip限制。",
+        "岗位要求：",
+        "1、全日制本科及以上，5年以上python/golang开发经验，2年以上数据抓取工作经验；",
+        "2、精通使用爬虫相关技术，如：python, scrapy, selenium, xpath, 正则表达式;",
+        "3、熟悉常用数据存储如mysql, mongodb，各种数据处理技术优先；",
+        "4、熟悉通信协议 TCP/HTTP 及 RESTful 标准。"
+    ],
+    "label": [
+        "五险一金",
+        "员工旅游",
+        "餐饮补贴",
+        "年终奖金",
+        "弹性工作",
+        "定期体检"
+    ]
+}{
+    "title": [
+        "爬虫开发工程师"
+    ],
+    "salary": [
+        "1.2-1.8万/月"
+    ],
+    "release_time": [
+        "2018-08-04"
+    ],
+    "area_localtion": [
+        "深圳-南山区"
+    ],
+    "requirement_number": [
+        "1人"
+    ],
+    "education": [],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen-nsq/co2443632.html",
+        "https://m.51job.com/search/jobmap.php?jobid=105093063&t=1"
+    ],
+    "company": [
+        "深圳前海移联科技有限公司"
+    ],
+    "company_intruduce": [
+        "民营公司| 150-500人| 计算机软件 互联网/电子商务"
+    ],
+    "company_addr": [
+        "上班地址 : 深圳市南山区科技园北区同方信息港A栋9楼"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=105093063&t=1"
+    ],
+    "position_discribe": [
+        "任职要求：",
+        "1.Java基础扎实，具有网络爬虫实际开发经验一年以上。",
+        "2.掌握常用网络抓取技术如Jsoup、selenium等。",
+        "3.熟练使用Spring、Mybatis、hibernate等技术相关的应用开发；",
+        "4.掌握Mysql数据库开发经验，熟悉常用的sql知识；",
+        "5.掌握python语言和使用python进行网络抓取开发者优先。",
+        "6.善于主动学习，热爱和关注互联网相关技术。",
+        "福利待遇：双休、五险一金、年终奖、带薪年假、法定假期、活动经费、生日会、旅游、下午茶、协调户口等。"
+    ],
+    "label": [
+        "五险一金",
+        "员工旅游",
+        "专业培训",
+        "年终奖金",
+        "股票期权",
+        "季度奖金",
+        "生日会"
+    ]
+}{
+    "title": [
+        "爬虫工程师"
+    ],
+    "salary": [
+        "0.8-1.5万/月"
+    ],
+    "release_time": [
+        "2018-08-04"
+    ],
+    "area_localtion": [
+        "深圳-南山区"
+    ],
+    "requirement_number": [
+        "1人"
+    ],
+    "education": [
+        "大专"
+    ],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen-nsq/co4781080.html",
+        "https://m.51job.com/search/jobmap.php?jobid=105116585&t=1"
+    ],
+    "company": [
+        "深圳市易赚科技有限公司"
+    ],
+    "company_intruduce": [
+        "民营公司| 少于50人| 计算机软件 互联网/电子商务"
+    ],
+    "company_addr": [
+        "上班地址 : 南山区粤海街道科兴科技园A4栋1202"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=105116585&t=1"
+    ],
+    "position_discribe": [
+        "岗位职责：",
+        "1、负责多电商平台销售信息的抓取、分析、调度、存储，为公司业务提供数据支持；",
+        "2、设计爬虫策略和防屏蔽规则，提升网页抓取的效率和质量；",
+        "3、负责开发ERP系统进行绩效数据统计及协助开展绩效核算；",
+        "4、工作中不断研究应用新技术，有效的提高工作效率。",
+        "5、及时高效完成领导安排的工作任务",
+        "岗位要求：",
+        "1、2年及以上Java或者python开发经验，熟悉windows开发环境，有大型C2C、B2C电商网站爬虫实践经验者优先；",
+        "2、熟悉多线程网页抓取原理及技术，熟悉基于Cookie的网站登录原理，精通正则表达式能够从Xpath、CSS等网页信息抽取技术；3、具备信息检索、自然语言处理、web挖掘等搜索引擎相关知识，有从事海量网络爬虫、网页去重、网页信息抽取的开发经验;",
+        "4、有一定的架构设计能力，有很强的分析、解决问题的能力；",
+        "5、能承受较大的工作压力，有较强团队合作精神，有良好的敬业精神，富于创新精神，具有较强的沟通能力、学习能力；"
+    ],
+    "label": [
+        "五险一金",
+        "弹性工作"
+    ]
+}{
+    "title": [
+        "资深爬虫研发工程师"
+    ],
+    "salary": [
+        "1.5-2万/月"
+    ],
+    "release_time": [
+        "2018-07-16"
+    ],
+    "area_localtion": [
+        "深圳-南山区"
+    ],
+    "requirement_number": [
+        "若干人"
+    ],
+    "education": [
+        "本科"
+    ],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen-nsq/co4719592.html",
+        "https://m.51job.com/search/jobmap.php?jobid=102851188&t=1"
+    ],
+    "company": [
+        "深圳合众财富金融投资管理有限公司广州分公司"
+    ],
+    "company_intruduce": [
+        "民营公司| 150-500人| 金融/投资/证券"
+    ],
+    "company_addr": [
+        "上班地址 : 大冲商务中心"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=102851188&t=1"
+    ],
+    "position_discribe": [
+        "1. 全日制重点本科及以上学历，计算机相关专业，3年或以上大数据平台研发经验；",
+        "2. 精通网络爬虫、互联网搜索、大数据新闻、网络多媒体、网络视频、即时通讯等技术，有着丰富的网络数据爬取工程项目经验；",
+        "3. 了解自然语言处理及语义分析、图像处理、优化算法等理论和技术，丰富的互联网大数据信息处理、搜索引擎、人工智能等行业经验；",
+        "4. 熟悉linux和Java开发，熟悉shell/perl/python等脚本语言，熟练掌握正则表达式；",
+        "5. 精通一种开源爬虫框架，如scrapy、webmagic、nutch、heritrix等，有开发爬虫框架经验优先；熟悉反爬虫、验证码识别技术者优先；",
+        "6. 有多线程、网络数据处理经验优先（如HTTP协议，AJAX，爬虫开发，浏览器内核开发，Web服务开发等）",
+        "岗位职责：",
+        "1.负责分布式网络爬虫系统的架构设计与开发（如抓取调度，多样化抓取，页面解析和结构化抽取，海量数据存储和读取等）；",
+        "2.负责爬虫核心算法的策略优化研究，提升爬虫抓取效率和质量（如调权调度、分析预测、质量判断、封禁与反封禁研究等）；",
+        "3.负责HTTP、AJAX等各类网络请求分析，探索和研究高效的数据抓取解决方案 "
+    ],
+    "label": [
+        "五险一金",
+        "定期体检",
+        "周末双休",
+        "年终奖金",
+        "弹性工作"
+    ]
+}{
+    "title": [
+        "( [ python爬虫开发工程师 ] )"
+    ],
+    "salary": [
+        "4.5-6千/月"
+    ],
+    "release_time": [
+        "2018-08-02"
+    ],
+    "area_localtion": [
+        "深圳-南山区"
+    ],
+    "requirement_number": [
+        "2人"
+    ],
+    "education": [
+        "大专"
+    ],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen-nsq/co5124890.html",
+        "https://m.51job.com/search/jobmap.php?jobid=104401391&t=1"
+    ],
+    "company": [
+        "深圳市运维软件有限公司"
+    ],
+    "company_intruduce": [
+        "民营公司| 50-150人| 计算机软件 电子技术/半导体/集成电路"
+    ],
+    "company_addr": [
+        "上班地址 : 南山区高新园"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=104401391&t=1"
+    ],
+    "position_discribe": [],
+    "label": [
+        "五险一金",
+        "餐补补贴",
+        "住房补贴",
+        "专业培训",
+        "绩效奖金",
+        "年底双薪",
+        "弹性工作",
+        "员工旅游",
+        "定期体检",
+        "下午茶"
+    ]
+}{
+    "title": [
+        "爬虫开发工程师（会java）"
+    ],
+    "salary": [
+        "1-1.5万/月"
+    ],
+    "release_time": [
+        "2018-08-04"
+    ],
+    "area_localtion": [
+        "深圳"
+    ],
+    "requirement_number": [
+        "若干人"
+    ],
+    "education": [
+        "大专"
+    ],
+    "com_link": [
+        "https://m.51job.com/jobs/shenzhen/co3352286.html",
+        "https://m.51job.com/search/jobmap.php?jobid=102884773&t=1"
+    ],
+    "company": [
+        "成都迈思信息技术有限公司"
+    ],
+    "company_intruduce": [
+        "民营公司| 150-500人| 计算机软件"
+    ],
+    "company_addr": [
+        "上班地址 : 福田区"
+    ],
+    "company_addr_mapurl": [
+        "https://m.51job.com/search/jobmap.php?jobid=102884773&t=1"
+    ],
+    "position_discribe": [
+        "爬虫开发工程师",
+        "职位描述：",
+        "1、负责设计和开发分布式的网络爬虫应用，进行互联网相关信息的抓取和分析；",
+        "2、完成定向数据的采集与爬取、解析处理、入库等数日常工作；",
+        "3、维护、优化现有的采集程序，提升爬虫的抓取效率和质量;",
+        "4、协助完成需求收集、分析，测试和部署，编写开发过程中涉及的相关文档。",
+        "任职要求：",
+        "1、具备Java两年以上开发经验，Java基础扎实，具备爬虫开发经验；",
+        "2、熟悉Java网络爬虫框架（electron、jsoup、Selenium、HttpClient、HtmlUnit等至少一种）；",
+        "3、熟练掌握HTML、CSS、Javascript等页面技术，熟悉angularjs；",
+        "4、熟练使用正则表达式、xpath、css选择器等页面提取方式，能够从结构化的和非结构化的数据中提取信息；",
+        "5、熟悉MySQL，MongoDB，oracle等数据库至少其中一种，熟悉SQL语言；",
+        "6、熟悉redis、RabbitMQ等消息中间件技术；",
+        "7、熟悉反爬虫技术，了解反爬机制；",
+        "8、熟悉应用服务器，熟悉Tomcat、Apache的配置及其优化；",
+        "9、熟悉ssh等常用框架，多线程、网络通信编程相关知识；",
+        "10、掌握linux基本操作，有python、nodejs相关经验者优先；",
+        "11、对APP采集有经验（包括抓包工具，APP模拟器等）者优先；",
+        "12、具有较强的分析和解决问题能力，有责任心，积极主动。",
+        "备注：以上2~11要求满足5条以上即可"
+    ],
+    "label": [
+        "五险一金",
+        "年终奖金",
+        "员工旅游",
+        "节日福利",
+        "周末双休"
+    ]
+}
